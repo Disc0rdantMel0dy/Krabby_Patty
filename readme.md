@@ -22,7 +22,7 @@ Prior to the workshop, the following tasks will need to be done if you wish to f
     - During setup it will ask you which components you wish to install.  
       - Installation of the **.NET desktop development pack** (red) is required for the workshop work.
       - Installation of the **Desktop Development with C++** (purple) is recommended if you wish to continue using the host for malware development.
-      ![Component Installation for Visual Studio](Visual_Studio_Setup_1.png)
+![Component Installation for Visual Studio](Visual_Studio_Setup_1.png)
       - **Please install this prior to guild night as the download is around 15GB** 
 ## Acknowledgements and Further Reading
 This content would not have been possible without many folks along the way who helped me with my maldev journey.  Its far too many to list so thank you all. Oh and Caffiene!  Thank you caffiene for keeping me up as I bootstrapped this knowledge for some operation or another.
