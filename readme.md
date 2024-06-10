@@ -25,6 +25,6 @@ Prior to the workshop, the following tasks will need to be done if you wish to f
       ![Component Installation for Visual Studio](Visual_Studio_Setup_1.png)
       - **Please install this prior to guild night as the download is around 15GB** 
 ## Acknowledgements and Further Reading
-This content would not have been possible without many folks along the way who helped me with my maldev journey.  Its far too many to list so thank you all.
+This content would not have been possible without many folks along the way who helped me with my maldev journey.  Its far too many to list so thank you all. Oh and Caffiene!  Thank you caffiene for keeping me up as I bootstrapped this knowledge for some operation or another.
 
 The slideware presented in this talk is also inside the repo in PPTX (with presentation notes) or in PDF format.
