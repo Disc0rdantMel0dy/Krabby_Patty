@@ -14,10 +14,10 @@ Prior to the workshop, the following tasks will need to be done if you wish to f
 - You will need to either disable Windows Defender (or create an exclusion folder to house maldev projects).
 - You should save this entire repo to the host 
   - Use Download link above
-  - Alternatively if you install git for windows you can run the following command from cmd.exe to clone the repo
+  - Alternatively, if you install git for windows, you can run the following command from cmd.exe to clone the repo
   > `git clone https://github.com/Disc0rdantMel0dy/Krabby_Patty.git`
 - Install Visual Studio 2022 Community Edition
-    - Download Visual Studio [here](https://visualstudio.microsoft.com/vs/community/) `https://visualstudio.microsoft.com/vs/community/`
+    - Download Visual Studio [here](https://visualstudio.microsoft.com/vs/community/) (`https://visualstudio.microsoft.com/vs/community/`)
     - After Visual Studio Installer is downloaded run the setup binary.
     - During setup it will ask you which components you wish to install.  
       - Installation of the **.NET desktop development pack** (red) is required for the workshop work.
@@ -26,4 +26,4 @@ Prior to the workshop, the following tasks will need to be done if you wish to f
 ## Acknowledgements and Further Reading
 This content would not have been possible without many folks along the way who helped me with my maldev journey.  Its far too many to list so thank you all.
 
-The slideware presented in this talk is also inside the repo in pptx (with presentation notes) or in PDF format.
+The slideware presented in this talk is also inside the repo in PPTX (with presentation notes) or in PDF format.
