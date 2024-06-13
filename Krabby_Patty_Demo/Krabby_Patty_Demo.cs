@@ -3,22 +3,32 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
+using System.Threading;
+
 
 namespace Krabby_Patty_Demo
 {
     internal class Krabby_Patty_Demo
     {
         //Demo 1 - Import NTDLL API Call for VirtualAlloc
+        
+        //Demo 1 - Import NTDLL API Call for CreateThread
+        
+        //Demo 1 - Import NTDLL API Call for WaitforSingleObject
+        
         static void Main(string[] args)
         {
-            //Demo 1 - Create placeholder for shellcode array
-
+            //Demo 1 - Create placeholder for shellcode array (shellcodeBytes)
+            
             //Demo 3 - Add hardcoded shellcode to variable.
 
             //Demo 1 - Create Constants for VirtualAlloc API Call
             //MEM_COMMIT
+            
             //PAGE_EXECUTE_READWRITE
+            
 
             //Demo 1 - Create API Call for Allocate Memory
             //Note: The API call will return a pointer to our memory region so it will need to be saved to a variable or the code won't compile
@@ -31,9 +41,9 @@ namespace Krabby_Patty_Demo
              *    [in] DWORD/UInt32   flProtect
              *  );
              */
-
+            
             //Demo 1 - Create API call to copy shellcode to memory
-
+            
             /*
              * public static void Copy (float[] source, int startIndex, IntPtr destination, int length);
              */
@@ -53,9 +63,9 @@ namespace Krabby_Patty_Demo
               *    [out, optional] LPDWORD (UInt32)                  lpThreadId
               *  );
             */
-
+            
             //Demo 2 - Use the WaitforSingleObject API call to instruct the OS to wait for an infinite amount of time for the thread to finish.
-
+            
             /*
              * DWORD WaitForSingleObject(
              *  [in] HANDLE (IntPtr)    hHandle,
