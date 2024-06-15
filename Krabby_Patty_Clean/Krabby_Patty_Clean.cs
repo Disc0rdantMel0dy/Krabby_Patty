@@ -90,9 +90,7 @@ namespace Krabby_Patty_Clean
                 IntPtr.Zero,              //lpParameter
                 0,                        //dwCreationFlags
                 ref threadId);            //lpThreadId
-
-
-            WaitForSingleObject(hThread, 0xFFFFFFFF);
+            
         }
     }
 }

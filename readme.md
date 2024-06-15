@@ -1,12 +1,16 @@
 # The Krabby Patty Secret Recipe - An Intro to Shellcode Running (Workshop Repo)
-**This repo is meant to be used during the Neon Temple Guild Night Talk given by Disc0rdantMel0dy.**
+**This repo is meant to be used during the Neon Temple (https://neontemple.net/) Guild Night Talk given by Disc0rdantMel0dy.**
+
+**Talk Recording Link:**
+https://youtube.com/live/0OurL8dutk8?feature=share
+
 
 *The contents of this repo are meant for educational purposes only and should not be executed on any systems which are not owned by the operator, or on systems which the operator has not been given explicit permission to execute them upon.*
 
 ## How to use this repo
 This repo contains three projects which are designed to teach the basic principles of shellcode running.  Two of the projects (Krabby_Patty_Clean and Krabby_Patty_Documented) are functional copies of each other with the only difference being the amount of code documentation provided.  These are provided as reference on how to build a simple "functional" shellcode runner.
 
-The third repo (Krabby_Patty_Demo) is simply a skeleton program with comment in place to scaffold up the building of a runner from scratch.  This repo's existing code is simply the base template for a C# .NET console app from Visual Studio.  We will build the runner from the ground up during the demo sections of the class.
+The third repo (Krabby_Patty_Demo) is simply a skeleton program with comments in place to scaffold up the building of a runner from scratch.  This repo's existing code is simply the base template for a C# .NET console app from Visual Studio.  We will build the runner from the ground up during the demo sections of the class.
 
 ## Workshop Preparation 
 Prior to the workshop, the following tasks will need to be done if you wish to follow along and build the loader during the talk.
